@@ -38,9 +38,6 @@ This version of `index.html` is **100% self-contained into a single file**:
 
 ---
 
-## 🌐 Making It Available Online
+## 🌐 Available Online
 
-Because it's a single static file, hosting it online is effortless:
-1. **GitHub Pages**: Upload `index.html` to a GitHub repository, enable Pages in Settings -> Pages.
-2. **Netlify Drop**: Drag and drop `index.html` at [app.netlify.com/drop](https://app.netlify.com/drop).
-3. **Any Traditional Web Hosting**: Upload `index.html` directly to your `public_html` directory via FTP.
+This single static file is available online on page https://fcsaba-chess.netlify.app/.
